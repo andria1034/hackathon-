@@ -25,7 +25,7 @@ function readTodos() {
 
 
 app.get('/api/todos', (req, res) => {
-  res.send('hello')
+  res.send('')
 })
 
 // Helper to write todos
